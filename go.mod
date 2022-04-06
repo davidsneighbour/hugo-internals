@@ -1,3 +1,3 @@
-module github.com/dnb-org/dnb-hugo-internals
+module github.com/davidsneighbour/hugo-internals
 
 go 1.17
