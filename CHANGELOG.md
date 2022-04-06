@@ -2,6 +2,25 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.0.3 (2022-04-06)
+
+
+### Build System
+
+* proper release script ([dcd9905](https://github.com/dnb-org/dnb-hugo-internals/commit/dcd99057fe6ea1552df03d206baeff9d3d99a9ec))
+
+
+### Chore
+
+* **config:** update header images ([e305083](https://github.com/dnb-org/dnb-hugo-internals/commit/e305083d8d74a0ae21c53bd4e115593868a582e9))
+* **deps:** update dependencies ([c7b00c4](https://github.com/dnb-org/dnb-hugo-internals/commit/c7b00c431f7a0ca6b8d205454cbc8072f8a66e47))
+* fix build files to new structure ([31fbf93](https://github.com/dnb-org/dnb-hugo-internals/commit/31fbf93fbb2ab3bcd1068f38cb0210d301e44ec9))
+* **fix:** proper module name ([f51563f](https://github.com/dnb-org/dnb-hugo-internals/commit/f51563f39b2e362707035198035255381c183cbf))
+* initial commits, current status ([d9af7d5](https://github.com/dnb-org/dnb-hugo-internals/commit/d9af7d5906553f4a66d2200d8ccca715bf797cbb))
+* **release:** v0.0.2 ([93a31d1](https://github.com/dnb-org/dnb-hugo-internals/commit/93a31d101c181ddd193a7dd2867cea8fc7daf72e))
+* update go.mod ([9d53a6f](https://github.com/dnb-org/dnb-hugo-internals/commit/9d53a6f2c9b12de742f6aa3469dfcc338193155e))
+* update repository files ([ff02452](https://github.com/dnb-org/dnb-hugo-internals/commit/ff024527c85322de228e8169197a1b072739165b))
+
 ### 0.0.2 (2022-01-17)
 
 
