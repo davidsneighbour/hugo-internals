@@ -1,13 +1,13 @@
 <!--- CARD BEGIN --->
 
-![DNB-Hugo/HEAD](.github/github-card-dark.png#gh-dark-mode-only)
-![DNB-Hugo/HEAD](.github/github-card-light.png#gh-light-mode-only)
+![DNB-Hugo/INTERNALS](.github/github-card-dark.png#gh-dark-mode-only)
+![DNB-Hugo/INTERNALS](.github/github-card-light.png#gh-light-mode-only)
 
 <!--- CARD END --->
 
 # DNB GoHugo Component / Internals
 
-This is a GoHugo theme component that solves the old question "what tags belong into the `<head>` tag of my website. Set it up, configure it, forget it's there. This component adds a multitude of tags and is extensively configurable.
+This module replaces internal templates used by Hugo with custom ones. Internal templates of Hugo are highly opiniated and not suitable for use in a production environment of a website. These templates replace them with our own setup.
 
 ## Installing
 
@@ -38,15 +38,7 @@ hugo mod get -u #
 
 ## Configuration parameters
 
-- All configuration is located in the params section below `params.dnb.internals`.
-- All samples in this document are documented in TOML and assume the section header is already present above them.
-
-```toml
-[params]
-[params.dnb]
-[params.dnb.head]
-parameter = value
-```
+-
 
 ## Hooks
 
