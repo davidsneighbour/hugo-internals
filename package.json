@@ -1,6 +1,6 @@
 {
   "name": "@dnb-org-gohugo-components/internals",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "MIT",
   "description": "Replacing GoHugo's internal templates with better options",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
