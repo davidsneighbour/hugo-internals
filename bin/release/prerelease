@@ -21,6 +21,6 @@ hugo mod tidy
 git add go.mod
 
 FILE=go.sum
-if test -f "$FILE"; then
-    git add go.sum
+if test -f "${FILE}"; then
+  git add go.sum
 fi
