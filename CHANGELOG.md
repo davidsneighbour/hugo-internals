@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.6](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.5...v0.0.6) (2022-04-08)
+
+
+### Theme
+
+* **layouts:** moving layouts around ([a810bba](https://github.com/dnb-org/dnb-hugo-internals/commit/a810bba366303ff212a98891a6ffb2cb68d022ee))
+
 ### [0.0.5](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.4...v0.0.5) (2022-04-08)
 
 
