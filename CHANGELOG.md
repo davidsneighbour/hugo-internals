@@ -2,6 +2,23 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.8](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.6...v0.0.8) (2022-04-28)
+
+
+### Build System
+
+* update Github organization name & use newer NPM dependencies ([#3](https://github.com/dnb-org/dnb-hugo-internals/issues/3)) ([357aa76](https://github.com/dnb-org/dnb-hugo-internals/commit/357aa76b49ff2776760a13ce50828813e42f9a3d))
+
+
+### Chore
+
+* **release:** v0.0.7 ([23c64f7](https://github.com/dnb-org/dnb-hugo-internals/commit/23c64f77b61ecdbd9e0e64f93019ece09bd2c6fd))
+
+
+### Theme
+
+* **fix:** update layout files to use proper hyphenation ([42350f0](https://github.com/dnb-org/dnb-hugo-internals/commit/42350f0b8c126491b6ffeec22c6fc4ee1566ef48))
+
 ### [0.0.7](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.6...v0.0.7) (2022-04-20)
 
 
