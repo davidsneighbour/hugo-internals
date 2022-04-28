@@ -1,6 +1,6 @@
 {
   "name": "@davidsneighbour/hugo-internals",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "license": "MIT",
   "description": "Replacing GoHugo's internal templates with better options",
   "author": "Patrick Kollitsch <patrick@davids-neighbour.com>",
