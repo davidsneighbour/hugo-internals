@@ -5,9 +5,9 @@
 
 <!--- CARD END --->
 
-# GoHugo Component / Internals
-
 This module attempts to replace internal templates used by Hugo with custom ones and other modules and plugins that add identical features more sophisticated or up-to-date. Internal templates of Hugo are highly opiniated, often out of time and not suitable for use in the production environment of a website. The layouts in this repo and it's modules replace them with our own better setup.
+
+# Setup
 
 ## Installing
 
@@ -39,12 +39,14 @@ hugo mod get -u github.com/davidsneighbour/hugo-internals
 hugo mod get -u ./...
 ```
 
-## Configuration
+# Replacements
 
-### robots.txt
+## [hugo-robots](https://github.com/davidsneighbour/hugo-robots) --- Creating a robots.txt
 
 This component uses [hugo-robots](https://github.com/davidsneighbour/hugo-robots) to create a robots.txt without much configuration. The only step to take is that robots.txt generation needs to be enabled in your configuration, eg. config.toml:
 
 ```toml
 enableRobotsTXT = true
 ```
+
+Read more about detailled setup options at [the documentation](https://kollitsch.dev/components/hugo-robots/).
