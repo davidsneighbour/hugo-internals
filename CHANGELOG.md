@@ -2,6 +2,14 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.1](https://github.com/dnb-org/dnb-hugo-internals/compare/v1.0.0...v1.0.1) (2022-07-31)
+
+
+### Documentation
+
+* rewrite README.md ([23d4f94](https://github.com/dnb-org/dnb-hugo-internals/commit/23d4f944da6d1a62e96f5e9efb5028fc0f339ac2))
+* rewrite README.md ([925efad](https://github.com/dnb-org/dnb-hugo-internals/commit/925efad003b5b0a55a7e152c29e4982f8ce00e93))
+
 ## [1.0.0](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.9...v1.0.0) (2022-07-31)
 
 ### [0.0.9](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.6...v0.0.9) (2022-07-31)
