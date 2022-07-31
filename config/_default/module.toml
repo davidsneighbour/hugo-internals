@@ -9,3 +9,9 @@ target = "layouts"
 [[mounts]]
 source = "data"
 target = "data"
+
+[[imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = "github.com/davidsneighbour/hugo-robots"

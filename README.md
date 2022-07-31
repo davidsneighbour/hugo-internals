@@ -33,5 +33,15 @@ The next time you run `hugo` it will download the latest version of the module a
 # update this module
 hugo mod get -u github.com/davidsneighbour/hugo-internals
 # update all modules
-hugo mod get -u #
+hugo mod get -u ./...
+```
+
+## Configuration
+
+### robots.txt
+
+This component uses [hugo-robots](https://github.com/davidsneighbour/hugo-robots) to create a robots.txt without much configuration. The only step to take is that robots.txt generation needs to be enabled in your configuration, eg. config.toml:
+
+```toml
+enableRobotsTXT = true
 ```
