@@ -2,6 +2,36 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.9](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.6...v0.0.9) (2022-07-31)
+
+
+### Features
+
+* add robots.txt integration via hugo-robots ([5549b80](https://github.com/dnb-org/dnb-hugo-internals/commit/5549b80477f9e3059b78eeb9c43aaf8e02ac93a7))
+
+
+### Build System
+
+* update Github organization name & use newer NPM dependencies ([#3](https://github.com/dnb-org/dnb-hugo-internals/issues/3)) ([357aa76](https://github.com/dnb-org/dnb-hugo-internals/commit/357aa76b49ff2776760a13ce50828813e42f9a3d))
+
+
+### Theme
+
+* **fix:** update layout files to use proper hyphenation ([42350f0](https://github.com/dnb-org/dnb-hugo-internals/commit/42350f0b8c126491b6ffeec22c6fc4ee1566ef48))
+
+
+### Refactors
+
+* remove closing indicators for self-closing tags ([03e5edf](https://github.com/dnb-org/dnb-hugo-internals/commit/03e5edfda3d6cd99294792029dbcf4db0a39c46a))
+
+
+### Chore
+
+* cleanup ([136e963](https://github.com/dnb-org/dnb-hugo-internals/commit/136e963007ed7e3e99f99c73f214c34a1c803d46))
+* **config:** set Dependabot to monthly checks ([f3867ee](https://github.com/dnb-org/dnb-hugo-internals/commit/f3867ee8bdfe6b4c0d215f8c2ccf6c5a1a7b519b))
+* **release:** v0.0.7 ([23c64f7](https://github.com/dnb-org/dnb-hugo-internals/commit/23c64f77b61ecdbd9e0e64f93019ece09bd2c6fd))
+* **release:** v0.0.8 ([f38b3db](https://github.com/dnb-org/dnb-hugo-internals/commit/f38b3dba20c7d8d2e0836b72c0cb126b88e9c69b))
+
 ### [0.0.8](https://github.com/dnb-org/dnb-hugo-internals/compare/v0.0.6...v0.0.8) (2022-04-28)
 
 
