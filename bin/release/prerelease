@@ -13,8 +13,6 @@ for TOOL in "${REQUIRED_TOOLS[@]}"; do
   fi
 done
 
-typos -- ./content
-
 hugo mod get -u ./...
 hugo mod tidy
 
