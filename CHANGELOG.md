@@ -2,6 +2,33 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [1.0.4](https://github.com/davidsneighbour/dnb-hugo-internals/compare/v1.0.0...v1.0.4) (2022-08-03)
+
+
+### Features
+
+* add hugo-sitemaps and hugo-youtube ([9eacda8](https://github.com/davidsneighbour/dnb-hugo-internals/commit/9eacda83bf051a2f1ae80eb5f4cd13cddcaf9bfb))
+
+
+### Documentation
+
+* add missing license ([3f68c21](https://github.com/davidsneighbour/dnb-hugo-internals/commit/3f68c217d480804bf1eccbbb1d26f6680075ad0b)), closes [#15](https://github.com/davidsneighbour/dnb-hugo-internals/issues/15)
+* rewrite README.md ([5ce86e4](https://github.com/davidsneighbour/dnb-hugo-internals/commit/5ce86e427d80e505fb2486ae8c383d586ce96cbe))
+* rewrite README.md ([23d4f94](https://github.com/davidsneighbour/dnb-hugo-internals/commit/23d4f944da6d1a62e96f5e9efb5028fc0f339ac2))
+* rewrite README.md ([925efad](https://github.com/davidsneighbour/dnb-hugo-internals/commit/925efad003b5b0a55a7e152c29e4982f8ce00e93))
+
+
+### Chore
+
+* **release:** v1.0.2 ([07c4201](https://github.com/davidsneighbour/dnb-hugo-internals/commit/07c420174bb1ac50ffd47aee6a983e43b4501c26))
+* **release:** v1.0.3 ([13d4368](https://github.com/davidsneighbour/dnb-hugo-internals/commit/13d43683ad79ceacc3c5b807b6ef4e0f0dfae7d0))
+
+
+### Build System
+
+* add release to post release hook ([1336810](https://github.com/davidsneighbour/dnb-hugo-internals/commit/13368109464959bf8b63a8bb7780f67092b6be44))
+* add release to post release hook ([287315c](https://github.com/davidsneighbour/dnb-hugo-internals/commit/287315c6de09fac44215135b21c21cbef4f7c1e3))
+
 ### [1.0.3](https://github.com/davidsneighbour/dnb-hugo-internals/compare/v1.0.0...v1.0.3) (2022-08-03)
 
 
