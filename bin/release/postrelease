@@ -16,3 +16,9 @@ git commit --amend --no-edit
 
 git push --follow-tags origin main
 git push --tags
+
+VERSION=$(node -pe 'require("./package.json")["version"]')
+URL="$GITHUB_REPO""releases/new?tag=v""$VERSION""&title=v""$VERSION"
+
+# create a release on GitHub
+xdg-open "${URL}" &>>/dev/null
