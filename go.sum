@@ -1,2 +1,6 @@
 github.com/davidsneighbour/hugo-robots v1.2.3 h1:m4YqvaM11swCXq09Q9YnZLQ0yu5arDq6wCQKXT6GXWc=
 github.com/davidsneighbour/hugo-robots v1.2.3/go.mod h1:q4YHx8ppcEtXa7bpCC0h+ml6lXCPsvemZrufl5XU+9U=
+github.com/davidsneighbour/hugo-sitemap v1.0.0 h1:ubSq0tPwmaUeBOMwVCOX+VxErbHPYzci6t0qWA4gGQg=
+github.com/davidsneighbour/hugo-sitemap v1.0.0/go.mod h1:yg6xByEFv+J1UabtBGluLAF4tuekbcgPkwEQbVdIxAY=
+github.com/davidsneighbour/hugo-youtube v1.1.5 h1:bakTLxkVmneoqYpr6Z0355Gzn/5vxr8T0G9nECP6Y6I=
+github.com/davidsneighbour/hugo-youtube v1.1.5/go.mod h1:qR+p/3TJDmApG4sB+ajqV4vvRwWaRr+HZiMwPrRxE7U=
